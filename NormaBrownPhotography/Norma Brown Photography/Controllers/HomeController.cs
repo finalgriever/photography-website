@@ -15,14 +15,28 @@ namespace Norma_Brown_Photography.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "How Norma Catpured the World.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Contact us for a quote, or to make a booking.";
+
+            return View();
+        }
+
+        public ActionResult Blog()
+        {
+            ViewBag.Message = "Normas Photography Blog";
+
+            return View();
+        }
+
+        public ActionResult Events()
+        {
+            ViewBag.Message = "Upcoming Events.";
 
             return View();
         }

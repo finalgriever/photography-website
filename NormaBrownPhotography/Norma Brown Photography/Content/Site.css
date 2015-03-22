@@ -8,6 +8,11 @@
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    background-color: #FFFFFF;
+}
+
+.body-content p {
+    color: #000000;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -17,8 +22,8 @@
     white-space: normal;
 }
 
-p {
-    color: #A7C7C6;
+footer p {
+    color: #FFFFFF;
 }
 
 /* Set width on the form input elements since they're 100% wide by default */

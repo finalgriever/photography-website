@@ -315,7 +315,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 
 input,
@@ -4389,7 +4389,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-brand {
-  color: #777777;
+  color: #DDDDDD;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -4512,12 +4512,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #ffffff;
+  color: #090909;
   background-color: transparent;
 }
 
 .navbar-inverse .navbar-text {
-  color: #999999;
+  color: #FFFFFF;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -4526,7 +4526,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #ffffff;
+  color: #090909;
   background-color: transparent;
 }
 
